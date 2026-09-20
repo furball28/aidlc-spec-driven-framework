@@ -1,0 +1,4 @@
+# Global Entry Point: Redirecting to the Main Steering Directory
+# Enforces the AiDLC framework across the entire workspace architecture.
+
+@include "/prompt-engineering-steering/.cursorrules"
