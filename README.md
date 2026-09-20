@@ -2,8 +2,8 @@
 ## Fictional Blueprint: Core Micro-Lending Engine Modernization
 ### Mock Enterprise System: "OmniLoan Core" by ApexGlobal FinTech
 
-<img src="https://shields.io" alt="Framework Badge">
-<img src="https://shields.io" alt="Phase Badge">
+![Framework](https://shields.io)
+![Phase](https://shields.io)
 
 ### 🚀 1. The Strategic Paradigm Shift: What is this project?
 In an **AI-Assisted Software Development Lifecycle (AiDLC)**, the primary bottleneck is no longer code generation velocity; it is **specification precision**. Vague requirements cause AI agents to hallucinate code, resulting in severe technical debt.
